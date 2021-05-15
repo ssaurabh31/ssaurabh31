@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ssaurabh31
+- 👋 Hi, I’m Saurabh Panvelkar (@ssaurabh31)
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Data Science ML & AI
 - 💞️ I’m looking to collaborate on paython
